@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+    <head>
+        <title> Rilla the QB </title>
+        <link rel="stylesheet" type="text/css" href="test.css" />
+    </head>
+
+    <body>
+        <div id = "Header">
+            <h1> Rilla the QB </h1>
+        </div>
+
+        <div id = "LeftNav">
+            <h3 class = "titles"> My Favorite Websites </h3>
+            <ul>
+                <li><a href="https://www.theverge.com">The Verge</a></li>
+                <li><a href="https://www.surfline.com">Surfline</a></li>
+                <li><a href="https://www.worldstarhiphop.com">WORLD STAR</a></li>
+                <li><a href="https://www.amazon.com">Amazon</a></li>
+                <li><a href="https://www.theonion.com">The Onion</a></li>
+            </ul>
+            <img src="icon.gif" width="350px" height="200px"
+        </div>
+
+        <div id = "Content">
+            <img src="price.jpg">
+        </div>
+
+        <div id = "Footer">
+            <h3 class = "titles">Connect With Me Online:</h3>
+            <ul>
+                <li><a herf="https://www.Spotify.com">Spotify Playlists</a></li>
+            </ul>
+            <p>Copyright of This</p>
+        </div>
+
+    </body>
+
+</html>
